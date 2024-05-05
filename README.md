@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo Dimas</h1>
 <h1 align="center">Olá 👋, Eu sou Gustavo Dimas</h1>
-<h3 align="center">I'm a game developer university student at the Federal Institute of Bahia. I have programming skills using C#, Unity, 3D animation and game development. I have experience in 3D design and also good knowledge of Blender to create 3D scenes and objects for games.</h3>
+<h3 align="center">As a game developer at the Federal Institute of Bahia, I possess programming skills in C# and Unity, along with experience in 3D animation and game development. I have hands-on experience in 3D design and a solid understanding of Blender, which I use to create 3D scenes and objects for games.</h3>
 
 - 🌱 I’m currently learning **C#, Unity 2D and Unity 3D**
 
