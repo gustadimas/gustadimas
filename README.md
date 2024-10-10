@@ -27,7 +27,7 @@
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
 </a>
 <a href="https://instagram.com/gustadimas" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
 </a>
 <a href="https://www.behance.net/gustadimas" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg" alt="Behance" height="40" width="40" />
