@@ -2,7 +2,7 @@
 <h3 align="center">Game Developer | 3D Artist | Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=C%23+%7C+Unity+%7C+3D+Design+%7C+Blender+%7C+Game+Development&center=true&vCenter=true&width=500&height=50&pause=5000">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&Unity+%7C+3D+Design+%7C+Blender+%7C+Game+Development&center=true&vCenter=true&width=500&height=50&pause=5000">
 </p>
 
 ---
