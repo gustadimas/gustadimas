@@ -9,8 +9,6 @@
 
 <h3 align="center">As a game developer at the Federal Institute of Bahia, I possess programming skills in C# and Unity, along with experience in 3D animation and game development. I have hands-on experience in 3D design and a solid understanding of Blender, which I use to create 3D scenes and objects for games.</h3>
 
-<h3 align="center">Como desenvolvedor de jogos no Instituto Federal da Bahia, possuo habilidades em programação com C# e Unity, além de experiência em animação 3D e desenvolvimento de jogos. Tenho experiência prática em design 3D e um bom entendimento do Blender, que utilizo para criar cenas e objetos 3D para jogos.</h3>
-
 ---
 
 - 🌱 I’m currently learning **C#, Unity 2D and Unity 3D**
