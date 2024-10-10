@@ -2,7 +2,7 @@
 <h3 align="center">Game Developer | 3D Artist | Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Game+Development+%7C+3D+Animation+%7C+C%23+%7C+Unity+Expert&center=true&vCenter=true&width=500&height=50&pause=3000">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Game+Development+Expert;3D+Animation+Specialist;C%23+%26+Unity+Programmer;Blender+3D+Designer&center=true&vCenter=true&width=500&height=50&pause=5000">
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **C#, Unity 2D and Unity 3D**
 
-- 👨‍💻 All of my projects are available at [GitHub]([https://github.com/gustadimas](https://github.com/gustadimas?tab=repositories))
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/gustadimas)
 
 - 📫 Reach me at **gustavodimas.92@gmail.com**
 
