@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **C#, Unity 2D and Unity 3D**
 
-- 👨‍💻 All of my projects are available at [GitHub]([https://github.com/gustadimas](https://github.com/gustadimas?tab=repositories))
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/gustadimas?tab=repositories)
 
 - 📫 Reach me at **gustavodimas.92@gmail.com**
 
