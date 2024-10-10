@@ -2,7 +2,7 @@
 <h3 align="center">Game Developer | 3D Artist | Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Game+Development+%7C+3D+Animation+%7C+C%23+%7C+Unity+Expert">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Game+Development+%7C+3D+Animation+%7C+C%23+%7C+Unity+Expert&center=true&vCenter=true&width=500&height=50&pause=3000">
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **C#, Unity 2D and Unity 3D**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/gustadimas)
+- 👨‍💻 All of my projects are available at [GitHub]([https://github.com/gustadimas](https://github.com/gustadimas?tab=repositories))
 
 - 📫 Reach me at **gustavodimas.92@gmail.com**
 
@@ -23,9 +23,15 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/gustavo-dimas-480088263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://instagram.com/gustadimas" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" /></a>
-<a href="https://www.behance.net/gustadimas" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg" alt="Behance" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/gustavo-dimas-480088263/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+</a>
+<a href="https://instagram.com/gustadimas" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" />
+</a>
+<a href="https://www.behance.net/gustadimas" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg" alt="Behance" height="40" width="40" />
+</a>
 </p>
 
 ---
