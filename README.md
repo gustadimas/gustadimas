@@ -1,62 +1,69 @@
-<h1 align="center">Hi 👋, I'm Gustavo Dimas</h1>
-<h3 align="center">Game Developer | 3D Animator | Programmer</h3>
+#
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=C%23+|+Unity+|+3D+|+Blender+|+Game+Development&center=true&vCenter=true&width=500&height=50&pause=2000">
-</p>
+<h1 align="left">Hi 👋, I'm Gustavo Dimas</h1>
+<h3 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=C%23+|+Unity+|+3D+|+Blender+|+Game+Development&vCenter=true&width=550&height=50&pause=2000&font_size=20"></h3>
 
 ---
 
-<h3 align="center">As a game developer at the Federal Institute of Bahia, I possess programming skills in C# and Unity, along with experience in 3D animation and game development. I have hands-on experience in 3D design and a solid understanding of Blender, which I use to create 3D scenes and objects for games.</h3>
+<img align="right" alt="Coding Pixel Art" height="190px" src="https://i.imgur.com/59OLvDk.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=8A2BE2&color=000)](mailto:gustavodimas.92@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2&color=000)](https://www.linkedin.com/in/gustavo-dimas-480088263/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=8A2BE2&color=000)](https://www.instagram.com/gustadimas/)
+[![Behance](https://img.shields.io/badge/-Behance-000?style=for-the-badge&logo=behance&logoColor=8A2BE2&color=000)](https://www.behance.net/gustadimas)
+
+<h3 align="left">My Stack ~</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="C# logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5 logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3 logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="25" alt="Unity logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="25" alt="Blender logo" />
+  <img width="8" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop logo" height="25">
+  <img width="8" />
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="25" alt="Illustrator logo" />
+</div>
 
 ---
+
+<h3 align="left">About Me</h3>
+
+As a game developer at the Federal Institute of Bahia, I possess programming skills in C# and Unity, along with experience in 3D animation and game development. I have hands-on experience in 3D design and a solid understanding of Blender, which I use to create 3D scenes and objects for games.
 
 - 🌱 I’m currently learning **C#, Unity 2D and Unity 3D**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/gustadimas?tab=repositories)
 
-- 📫 Reach me at **gustavodimas.92@gmail.com**
+---
+
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gustadimas&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=8A2BE2&text_color=FFF&border_radius=3&border_color=8A2BE2&icon_color=8A2BE2&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/gustadimas/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustadimas&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=8A2BE2&hide=html,scss,less&bg_color=000&text_color=C9A0DC&border_radius=3&border_color=8A2BE2&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/gustavo-dimas-480088263/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
-</a>
-<a href="https://instagram.com/gustadimas" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
-</a>
-<a href="https://www.behance.net/gustadimas" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg" alt="Behance" height="40" width="40" />
-</a>
-</p>
+[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=gustadimas&repo=CasoMorettiGame&title_color=ffffff&text_color=ffffff&icon_color=b388eb&bg_color=0,4a148c,6a1b9a&hide_border=true)](https://github.com/gustadimas/CasoMorettiGame)
+[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=gustadimas&repo=HerancaRitmicaGame&title_color=ffffff&text_color=ffffff&icon_color=9575cd&bg_color=0,4527a0,5e35b1&hide_border=true)](https://github.com/gustadimas/HerancaRitmicaGame)
+[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=gustadimas&repo=SurpresaRosaGame&title_color=ffffff&text_color=ffffff&icon_color=8e24aa&bg_color=0,6a1b9a,8e24aa&hide_border=true)](https://github.com/gustadimas/SurpresaRosaGame)
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-    <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-      <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  </a>
+  <img src="https://github.com/gustadimas/gustadimas/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
-
-![Snake animation](https://github.com/darkmathew/darkmathew/blob/output/github-contribution-grid-snake.svg)  
