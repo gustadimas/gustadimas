@@ -9,6 +9,15 @@
   </div>
 
 ---
+
+As a game developer at the Federal Institute of Bahia, I possess programming skills in C# and Unity, along with experience in 3D animation and game development. I have hands-on experience in 3D design and a solid understanding of Blender, which I use to create 3D scenes and objects for games.
+
+- 🌱 I’m currently learning **C#, Unity 2D and Unity 3D**
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/gustadimas?tab=repositories)
+
+---
+
 <img align="right" alt="Coding Pixel Art" height="150px" src="https://i.imgur.com/59OLvDk.gif" style="margin-left: 10px;">
 <h3 align="left">Connect with me!</h3>
 
@@ -40,16 +49,6 @@
 
 ---
 
-<h3 align="left">About Me</h3>
-
-As a game developer at the Federal Institute of Bahia, I possess programming skills in C# and Unity, along with experience in 3D animation and game development. I have hands-on experience in 3D design and a solid understanding of Blender, which I use to create 3D scenes and objects for games.
-
-- 🌱 I’m currently learning **C#, Unity 2D and Unity 3D**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/gustadimas?tab=repositories)
-
----
-
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
@@ -68,6 +67,8 @@ As a game developer at the Federal Institute of Bahia, I possess programming ski
 
 ---
 
-<p align="center">
-  <img src="https://github.com/gustadimas/gustadimas/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustadimas/gustadimas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustadimas/gustadimas/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustadimas/gustadimas/output/github-contribution-grid-snake.svg">
+</picture>
