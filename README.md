@@ -32,6 +32,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop logo" height="25">
   <img width="8" />
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="25" alt="Illustrator logo" />
+  <br>
 </div>
 
 ---
