@@ -7,11 +7,9 @@
       <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=C%23+|+Unity+|+3D+|+Blender+|+Game+Development&vCenter=true&width=550&height=50&pause=2000&font_size=20">
     </h3>
   </div>
-  <img align="right" alt="Coding Pixel Art" height="150px" src="https://i.imgur.com/59OLvDk.gif" style="margin-left: 10px;">
-</div>
 
 ---
-
+<img align="right" alt="Coding Pixel Art" height="150px" src="https://i.imgur.com/59OLvDk.gif" style="margin-left: 10px;">
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=8A2BE2&color=000)](mailto:gustavodimas.92@gmail.com)
