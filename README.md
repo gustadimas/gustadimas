@@ -1,11 +1,16 @@
 #
 
-<h1 align="left">Hi 👋, I'm Gustavo Dimas</h1>
-<h3 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=C%23+|+Unity+|+3D+|+Blender+|+Game+Development&vCenter=true&width=550&height=50&pause=2000&font_size=20"></h3>
+<div style="display: flex; align-items: center;">
+  <div>
+    <h1 align="left">Hi 👋, I'm Gustavo Dimas</h1>
+    <h3 align="left">
+      <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=C%23+|+Unity+|+3D+|+Blender+|+Game+Development&vCenter=true&width=550&height=50&pause=2000&font_size=20">
+    </h3>
+  </div>
+  <img align="right" alt="Coding Pixel Art" height="150px" src="https://i.imgur.com/59OLvDk.gif" style="margin-left: 10px;">
+</div>
 
 ---
-
-<img align="right" alt="Coding Pixel Art" height="190px" src="https://i.imgur.com/59OLvDk.gif">
 
 <h3 align="left">Connect with me!</h3>
 
