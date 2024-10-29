@@ -4,17 +4,15 @@
   <div>
     <h1 align="left">Hi 👋, I'm Gustavo Dimas</h1>
     <h3 align="left">
-      <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=C%23+|+Unity+|+3D+|+Blender+|+Game+Development&vCenter=true&width=550&height=50&pause=2000&font_size=20">
+      <img src="https://readme-typing-svg.herokuapp.com?color=%238A2BE2&lines=C%23+|+Unity+|+3D+|+Blender+|+Game+Development&vCenter=true&width=550&height=50&pause=2000&font_size=20">
     </h3>
   </div>
 
 ---
 
-As a game developer at the Federal Institute of Bahia, I possess programming skills in C# and Unity, along with experience in 3D animation and game development. I have hands-on experience in 3D design and a solid understanding of Blender, which I use to create 3D scenes and objects for games.
-
-- 🌱 I’m currently learning **C#, Unity 2D and Unity 3D**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/gustadimas?tab=repositories)
+<p align="center">
+  As a game developer at the Federal Institute of Bahia, I possess programming skills in C# and Unity, along with experience in 3D animation and game development. I have hands-on experience in 3D design and a solid understanding of Blender, which I use to create 3D scenes and objects for games.
+</p>
 
 ---
 
