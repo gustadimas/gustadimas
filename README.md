@@ -64,6 +64,7 @@
 [![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=gustadimas&repo=CasoMorettiGame&title_color=ffffff&text_color=ffffff&icon_color=b388eb&bg_color=0,4a148c,6a1b9a&hide_border=true)](https://github.com/gustadimas/CasoMorettiGame)
 [![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=gustadimas&repo=HerancaRitmicaGame&title_color=ffffff&text_color=ffffff&icon_color=9575cd&bg_color=0,4527a0,5e35b1&hide_border=true)](https://github.com/gustadimas/HerancaRitmicaGame)
 [![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=gustadimas&repo=SurpresaRosaGame&title_color=ffffff&text_color=ffffff&icon_color=8e24aa&bg_color=0,6a1b9a,8e24aa&hide_border=true)](https://github.com/gustadimas/SurpresaRosaGame)
+[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=gustadimas&repo=CasquinhadoMarGame&title_color=ffffff&text_color=ffffff&icon_color=4caf50&bg_color=0,1b5e20,388e3c&hide_border=true)](https://github.com/gustadimas/CasquinhadoMarGame)
 
 ---
 
