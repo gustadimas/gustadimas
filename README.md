@@ -25,6 +25,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2&color=000)](https://www.linkedin.com/in/gustavo-dimas-480088263/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=8A2BE2&color=000)](https://www.instagram.com/gustadimas/)
 [![Behance](https://img.shields.io/badge/-Behance-000?style=for-the-badge&logo=behance&logoColor=8A2BE2&color=000)](https://www.behance.net/gustadimas)
+[![Itch.io](https://img.shields.io/badge/-Itch.io-000?style=for-the-badge&logo=itch.io&logoColor=8A2BE2&color=000)](https://gustadimas.itch.io/)
 
 <h3 align="left">My Stack ~</h3>
 
