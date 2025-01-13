@@ -62,13 +62,6 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=gustadimas&repo=CasoMorettiGame&title_color=ffffff&text_color=ffffff&icon_color=b388eb&bg_color=0,4a148c,6a1b9a&hide_border=true)](https://github.com/gustadimas/CasoMorettiGame)
-[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=gustadimas&repo=HerancaRitmicaGame&title_color=ffffff&text_color=ffffff&icon_color=9575cd&bg_color=0,4527a0,5e35b1&hide_border=true)](https://github.com/gustadimas/HerancaRitmicaGame)
-[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=gustadimas&repo=SurpresaRosaGame&title_color=ffffff&text_color=ffffff&icon_color=8e24aa&bg_color=0,6a1b9a,8e24aa&hide_border=true)](https://github.com/gustadimas/SurpresaRosaGame)
-[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=gustadimas&repo=CasquinhaDoMarGame&title_color=ffffff&text_color=ffffff&icon_color=5e35b1&bg_color=0,311b92,512da8&hide_border=true)](https://github.com/gustadimas/CasquinhaDoMarGame)
-
----
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustadimas/gustadimas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustadimas/gustadimas/output/github-contribution-grid-snake-dark.svg">
