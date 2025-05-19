@@ -49,19 +49,18 @@
 
 <div align="center">
   <h3>GitHub Stats</h3>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gustadimas&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=8A2BE2&text_color=FFF&border_radius=3&border_color=8A2BE2&icon_color=8A2BE2&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustadimas&show_icons=true&theme=dark&hide_title=true&count_private=true&hide=issues&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF&icon_color=8A2BE2&border_radius=3&border_color=8A2BE2" alt="GitHub stats">
   <br>
-  <a href="https://github.com/gustadimas/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustadimas&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=8A2BE2&hide=html,scss,less&bg_color=000&text_color=C9A0DC&border_radius=3&border_color=8A2BE2" alt="Most Used Languages">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustadimas&layout=compact&langs_count=6&hide=html,scss,less&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=C9A0DC&border_radius=3&border_color=8A2BE2" alt="Most Used Languages">
 </div>
 
 ---
 
+<!-- GitHub Contribution Snake Animation -->
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustadimas/gustadimas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustadimas/gustadimas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustadimas/gustadimas/output/github-contribution-grid-snake.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustadimas/gustadimas/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustadimas/gustadimas/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustadimas/gustadimas/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
