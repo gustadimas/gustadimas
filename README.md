@@ -52,7 +52,7 @@
 <div align="center">
   <img src="./profile/stats.svg" alt="GitHub Stats" />
   <br />
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustadimas&layout=compact&langs_count=6&hide=html,scss,less&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=C9A0DC&border_color=8A2BE2&border_radius=6" alt="Top Languages" />
 </div>
 
 ---
