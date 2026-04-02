@@ -35,7 +35,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=gustadimas&layout=compact&langs_count=6&hide=html,scss,less
+          options: username=gustadimas&layout=compact&langs_count=6&hide=html,scss,less&bg_color=000000&title_color=8A2BE2&text_color=C9A0DC&border_color=8A2BE2&border_radius=6
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
