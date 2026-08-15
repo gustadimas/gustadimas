@@ -47,14 +47,6 @@
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
-</div>
-
----
-
 <div align="center">
   
 <picture>
